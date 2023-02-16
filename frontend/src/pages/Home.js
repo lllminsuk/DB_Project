@@ -294,6 +294,9 @@ const Home = ({ history }) => {
     }
     return array
   }
+
+
+  
   function PrintNews(list){
     let array = [];
     for(let i = 0; i < list.length; i++){
